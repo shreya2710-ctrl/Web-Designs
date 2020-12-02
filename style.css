@@ -1,0 +1,36 @@
+img {
+    float: center;
+}
+
+body {
+    background-image: url("disney2.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(252, 229, 23);
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    text-align: top right;
+}
+
+a {
+    color: rgb(163, 9, 9);
+    text-align: left;
+}
+
+p {
+    color: rgb(8, 8, 8);
+    border: 5px dashed pink;
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    color: rgb(12, 12, 12);
+}
